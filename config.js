@@ -49,7 +49,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/inizenscuy' // ig
+global.sig = 'https://instagram.com/riskysatyr' // ig
 global.sgh = 'https://github.com/RaaaGH/' // github
 global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Albedo-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Albedo-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Albedo-BOT '
+global.wm = '                「 Thorne-BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Thorne-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Thorne-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Zenss`
-global.packname = 'Albedo-Botz WhatsApp'
-global.author = '                「 Albedo-BOT  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Kyy`
+global.packname = 'Thorne-Botz WhatsApp'
+global.author = '                「 Thorne-BOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
