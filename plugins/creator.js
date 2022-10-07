@@ -23,7 +23,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 ${htjava} *💌 Nama* : Kyy-MODS-Dev
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
-${htjava} *✝️ Agama* : Islam
+${htjava} *✝️ Agama* : KRISTEN
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 16
 ${htjava} *🧮 Kelas* : 10
